@@ -3108,9 +3108,10 @@ glossy@^0.1.7:
   version "0.1.7"
   resolved "https://registry.yarnpkg.com/glossy/-/glossy-0.1.7.tgz#769b5984a96f6066ab9ea758224825ee6c210f0b"
 
-google-libphonenumber@3.0.4:
-  version "3.0.4"
-  resolved "https://registry.yarnpkg.com/google-libphonenumber/-/google-libphonenumber-3.0.4.tgz#a7ebd6a3fc0468f9842452fc584070986b281cf8"
+google-libphonenumber@3.2.6:
+  version "3.2.6"
+  resolved "https://registry.yarnpkg.com/google-libphonenumber/-/google-libphonenumber-3.2.6.tgz#3d725b48ff44706b80246e77f95f2c2fdc6fd729"
+  integrity sha512-6QCQAaKJlSd/1dUqvdQf7zzfb3uiZHsG8yhCfOdCVRfMuPZ/VDIEB47y5SYwjPQJPs7ebfW5jj6PeobB9JJ4JA==
 
 got@^6.7.1:
   version "6.7.1"
