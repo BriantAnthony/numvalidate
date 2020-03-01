@@ -75,7 +75,7 @@
     "raw-loader": "0.5.1",
     "react": "^15.6.1",
     "react-dom": "^15.6.1",
-    "react-ga": "2.2.0",
+    "react-ga": "2.7.0",
     "react-stripe-checkout": "2.6.3",
     "request": "2.81.0",
     "request-promise": "4.2.1",
