@@ -38,7 +38,7 @@
     "reset": "rm -rf node_modules/ && npm prune && yarn cache clean"
   },
   "dependencies": {
-    "auth0-js": "8.12.1",
+    "auth0-js": "9.13.2",
     "autoprefixer": "7.1.4",
     "babel-plugin-inline-dotenv": "1.1.1",
     "babel-plugin-transform-inline-environment-variables": "0.2.0",
